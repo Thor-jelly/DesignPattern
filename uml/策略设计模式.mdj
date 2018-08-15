@@ -1280,7 +1280,7 @@
 											"font": "Arial;13;1",
 											"left": 37,
 											"top": 279,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
 											"text": "子类1"
 										},
@@ -1313,7 +1313,7 @@
 									"font": "Arial;13;0",
 									"left": 32,
 									"top": 272,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFlO8KNpFBbH8w="
@@ -1350,16 +1350,16 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 302,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
-											"text": "+m策略 = 具体策略1",
+											"text": "#m策略 = 具体策略1",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 32,
 									"top": 297,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 23
 								},
 								{
@@ -1384,16 +1384,16 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 325,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
-											"text": "+fun get策略(): 策略接口",
+											"text": "-fun get策略(): 策略接口",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 32,
 									"top": 320,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 23
 								},
 								{
@@ -1432,7 +1432,7 @@
 							"containerChangeable": true,
 							"left": 32,
 							"top": 272,
-							"width": 151.22900390625,
+							"width": 147.96630859375,
 							"height": 71,
 							"autoResize": true,
 							"nameCompartment": {
@@ -1472,7 +1472,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 178,
+									"left": 177,
 									"top": 223,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1493,7 +1493,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 169,
+									"left": 168,
 									"top": 211,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1514,7 +1514,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 197,
+									"left": 196,
 									"top": 246,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -1533,7 +1533,7 @@
 								"$ref": "AAAAAAFlO8KNpFBZ92I="
 							},
 							"lineStyle": 1,
-							"points": "152:271;225:212",
+							"points": "150:271;224:212",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFlO9CnyVR7Yew="
@@ -1859,7 +1859,7 @@
 											"font": "Arial;13;1",
 											"left": 197,
 											"top": 279,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
 											"text": "子类2"
 										},
@@ -1894,7 +1894,7 @@
 									"font": "Arial;13;0",
 									"left": 192,
 									"top": 272,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFlO9MOGFYfDJE="
@@ -1931,16 +1931,16 @@
 											"font": "Arial;13;0",
 											"left": 197,
 											"top": 302,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
-											"text": "+m策略 = 具体策略2",
+											"text": "#m策略 = 具体策略2",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 192,
 									"top": 297,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 23
 								},
 								{
@@ -1965,16 +1965,16 @@
 											"font": "Arial;13;0",
 											"left": 197,
 											"top": 325,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
-											"text": "+fun get策略(): 策略接口",
+											"text": "-fun get策略(): 策略接口",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 192,
 									"top": 320,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 23
 								},
 								{
@@ -2014,7 +2014,7 @@
 							"containerChangeable": true,
 							"left": 192,
 							"top": 272,
-							"width": 151.22900390625,
+							"width": 147.96630859375,
 							"height": 71,
 							"autoResize": true,
 							"nameCompartment": {
@@ -2074,7 +2074,7 @@
 											"font": "Arial;13;1",
 											"left": 357,
 											"top": 279,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
 											"text": "子类3"
 										},
@@ -2109,7 +2109,7 @@
 									"font": "Arial;13;0",
 									"left": 352,
 									"top": 272,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFlO9NRf1ajLFI="
@@ -2146,16 +2146,16 @@
 											"font": "Arial;13;0",
 											"left": 357,
 											"top": 302,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
-											"text": "+m策略 = 具体策略3",
+											"text": "#m策略 = 具体策略3",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 352,
 									"top": 297,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 23
 								},
 								{
@@ -2180,16 +2180,16 @@
 											"font": "Arial;13;0",
 											"left": 357,
 											"top": 325,
-											"width": 141.22900390625,
+											"width": 137.96630859375,
 											"height": 13,
-											"text": "+fun get策略(): 策略接口",
+											"text": "-fun get策略(): 策略接口",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 352,
 									"top": 320,
-									"width": 151.22900390625,
+									"width": 147.96630859375,
 									"height": 23
 								},
 								{
@@ -2229,7 +2229,7 @@
 							"containerChangeable": true,
 							"left": 352,
 							"top": 272,
-							"width": 151.22900390625,
+							"width": 147.96630859375,
 							"height": 71,
 							"autoResize": true,
 							"nameCompartment": {
@@ -2269,7 +2269,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 257,
+									"left": 256,
 									"top": 233,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2290,7 +2290,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 242,
+									"left": 241,
 									"top": 231,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2311,7 +2311,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 286,
+									"left": 285,
 									"top": 236,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2330,7 +2330,7 @@
 								"$ref": "AAAAAAFlO9MOF1YdHK8="
 							},
 							"lineStyle": 1,
-							"points": "270:271;275:212",
+							"points": "268:271;274:212",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFlO9OQRFcsz+0="
@@ -2363,8 +2363,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 345,
-									"top": 246,
+									"left": 344,
+									"top": 245,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -2384,8 +2384,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 335,
-									"top": 257,
+									"left": 334,
+									"top": 256,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -2405,8 +2405,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 366,
-									"top": 223,
+									"left": 365,
+									"top": 224,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -2424,7 +2424,7 @@
 								"$ref": "AAAAAAFlO9NRf1ahBYM="
 							},
 							"lineStyle": 1,
-							"points": "388:271;324:212",
+							"points": "387:271;324:212",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFlO9Ot4Vdln90="
@@ -2662,7 +2662,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 177,
+									"left": 176,
 									"top": 437,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2683,7 +2683,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 164,
+									"left": 163,
 									"top": 445,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2704,7 +2704,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 202,
+									"left": 201,
 									"top": 420,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2723,7 +2723,7 @@
 								"$ref": "AAAAAAFlPB9NNlvMToE="
 							},
 							"lineStyle": 1,
-							"points": "250:527;130:343",
+							"points": "250:527;129:343",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFlPChMSl5ffro="
@@ -2756,7 +2756,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 251,
+									"left": 250,
 									"top": 428,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2777,7 +2777,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 236,
+									"left": 235,
 									"top": 428,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2798,7 +2798,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 280,
+									"left": 279,
 									"top": 429,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2817,7 +2817,7 @@
 								"$ref": "AAAAAAFlPB9NNlvMToE="
 							},
 							"lineStyle": 1,
-							"points": "265:527;267:343",
+							"points": "265:527;265:343",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFlPChyEV6rCik="
@@ -2850,7 +2850,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 328,
+									"left": 327,
 									"top": 420,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2871,7 +2871,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 316,
+									"left": 314,
 									"top": 412,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2892,7 +2892,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 353,
+									"left": 352,
 									"top": 437,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -2911,7 +2911,7 @@
 								"$ref": "AAAAAAFlPB9NNlvMToE="
 							},
 							"lineStyle": 1,
-							"points": "280:527;403:343",
+							"points": "280:527;401:343",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFlPCiDsV7R57Y="
@@ -3121,6 +3121,8 @@
 								"$ref": "AAAAAAFlO8KNo1BXvDI="
 							},
 							"name": "m策略",
+							"visibility": "protected",
+							"type": "",
 							"defaultValue": "具体策略1"
 						}
 					],
@@ -3132,6 +3134,7 @@
 								"$ref": "AAAAAAFlO8KNo1BXvDI="
 							},
 							"name": "fun get策略",
+							"visibility": "private",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3178,6 +3181,8 @@
 								"$ref": "AAAAAAFlO9MOF1YbTZE="
 							},
 							"name": "m策略",
+							"visibility": "protected",
+							"type": "",
 							"defaultValue": "具体策略2"
 						}
 					],
@@ -3189,6 +3194,7 @@
 								"$ref": "AAAAAAFlO9MOF1YbTZE="
 							},
 							"name": "fun get策略",
+							"visibility": "private",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3235,6 +3241,8 @@
 								"$ref": "AAAAAAFlO9NRf1af1+M="
 							},
 							"name": "m策略",
+							"visibility": "protected",
+							"type": "",
 							"defaultValue": "具体策略3"
 						}
 					],
@@ -3246,6 +3254,7 @@
 								"$ref": "AAAAAAFlO9NRf1af1+M="
 							},
 							"name": "fun get策略",
+							"visibility": "private",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
